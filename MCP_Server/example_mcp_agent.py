@@ -39,7 +39,6 @@ tool_schema = [
         }
     }
 ]
-tool_choice={"type": "function", "function": {"name": "get_weather"}}
 
 # System prompt
 system_prompt = """
